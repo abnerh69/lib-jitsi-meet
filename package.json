@@ -1,6 +1,6 @@
 {
   "name": "@abnerh69/lib-jitsi-meet",
-  "version": "2.6726.2b",
+  "version": "2.6726.2c",
   "description": "JS library for accessing Jitsi server side deployments",
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
   "author": "",
   "readmeFilename": "README.md",
   "dependencies": {
-    "@abnerh69/js-utils": "2.0.0a",
+    "@abnerh69/js-utils": "2.0.0b",
     "@jitsi/logger": "2.0.0",
     "@jitsi/sdp-interop": "github:jitsi/sdp-interop#4669790bb9020cc8f10c1d1f3823c26b08497547",
     "@jitsi/sdp-simulcast": "0.4.0",
