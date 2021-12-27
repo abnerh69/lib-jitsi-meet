@@ -16,7 +16,7 @@
   "author": "",
   "readmeFilename": "README.md",
   "dependencies": {
-    "@abnerh69/js-utils": "2.0.0",
+    "@abnerh69/js-utils": "2.0.0a",
     "@jitsi/logger": "2.0.0",
     "@jitsi/sdp-interop": "github:jitsi/sdp-interop#4669790bb9020cc8f10c1d1f3823c26b08497547",
     "@jitsi/sdp-simulcast": "0.4.0",
